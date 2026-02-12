@@ -1,0 +1,17 @@
+Provider	Model	Context Window	Input Token Price (per 1M)	Output Token Price (per 1M)
+OpenAI	GPT-5.2-Codex	4,00,000	$1.75	$14.00
+OpenAI	GPT-5	4,00,000	$1.25	$10.00
+OpenAI	GPT-4.1	10,00,000	$2.00	$8.00
+OpenAI	GPT-4.1 Mini	10,00,000	$0.40	$1.60
+Claude	Claude Opus 4.6	10,00,000	$5.00	$25.00
+Claude	Claude Sonnet 4.5	10,00,000	$3.00	$15.00
+Claude	Claude Haiku 4.5	2,00,000	$ 1.00	$5.00
+Claude	Claude Haiku 3.5	2,00,000	$0.80	$4.00
+Qwen	Qwen3 Coder Plus	1,28,000	$1.00	$5.00
+Qwen	Qwen3 Coder Flash	1,28,000	$0.30	$1.50
+Qwen	Qwen3 Max	2,56,000	$1.20	$6.00
+				
+				
+Moderation Model in GROQ				
+OpenAI	gpt-oss-safeguard-20b	Available		
+Meta	llama-guard-4-12b	Depricated		
